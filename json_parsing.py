@@ -8,8 +8,6 @@ obj = json.loads(json_text)
 key = 'messages'
 print(obj[key][1])
 
-
-
 # string_as_json_format = '{"answer":"Hello, Olga"}'
 #
 # obj = json.loads(string_as_json_format)
