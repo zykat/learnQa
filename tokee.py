@@ -14,4 +14,3 @@ response2 = requests.get(page, params='token='+obj[key])
 
 print(response2.text)
 
-assert
