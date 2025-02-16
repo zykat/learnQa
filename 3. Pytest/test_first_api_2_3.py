@@ -1,7 +1,6 @@
 import pytest
 import requests
 
-
 class TestFirstApi:
     names = [
         ("Olga"),

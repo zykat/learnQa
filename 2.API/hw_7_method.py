@@ -1,5 +1,6 @@
 import requests
 
+# Ex7: Запросы и методы
 page = "https://playground.learnqa.ru/api/compare_query_type"
 method = ['GET', 'POST', 'DELETE', 'PUT']
 # #1

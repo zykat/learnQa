@@ -1,6 +1,8 @@
 import requests
 import csv
 
+# Ex9*: Подбор пароля
+requests.packages.urllib3.disable_warnings()
 filename = 'unique_pass.csv'
 page = 'https://playground.learnqa.ru/ajax/api/get_secret_password_homework'
 page2 = "https://playground.learnqa.ru/api/check_auth_cookie"
