@@ -1,0 +1,1 @@
+курс Батыров REST API на Python (pytest)
